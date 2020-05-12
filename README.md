@@ -256,7 +256,7 @@
 
 四、项目GitHub地址
 
-　　Test1由苏巧玲同学Pull Request，我来做的merge。
+　　Test1由苏巧玲同学Pull Request，我来做的merge。Test2由我来提交。
     项目的GitHub地址为https://github.com/Shengjingyuan/Su-Sheng-travel-plans
 
 五、实验总结
